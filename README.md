@@ -2,13 +2,13 @@
 
 # David Figueroa
 
-**Android Tech Lead · IA Adoption · Mentor · Fundador BOA Apps**
+**Android Tech Lead · IA Adoption · Mentor · Fundador de Faro**
 
 *Mendoza, Argentina · 18+ años transformando código en resultados*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davofigueroa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davofigueroa)
 [![Email](https://img.shields.io/badge/Email-dgfigueroa29@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dgfigueroa29@gmail.com)
-[![BOA Apps](https://img.shields.io/badge/BOA_Apps-Fundador-4CAF50?style=flat-square)](https://github.com/dgfigueroa29)
+[![Faro](https://img.shields.io/badge/BOA_Apps-Fundador-4CAF50?style=flat-square)](https://github.com/dgfigueroa29)
 
 </div>
 
@@ -84,5 +84,5 @@ Arrancé en 2008 con PHP. Migré a mobile, lideré equipos de hasta 15 personas 
 ---
 
 <div align="center">
-<sub>Fundador de <strong>BOA Apps</strong> · Mendoza, Argentina</sub>
+<sub>Fundador de <strong>Faro</strong> · Mendoza, Argentina</sub>
 </div>
