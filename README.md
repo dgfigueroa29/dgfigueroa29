@@ -6,7 +6,7 @@
 
 *Mendoza, Argentina · 18+ años transformando código en resultados*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-figueroa-mentor-faro-android-ia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-figueroa-mentor-faro-android-ia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davofigueroa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-figueroa-mentor-faro-android-ia)
 [![Email](https://img.shields.io/badge/Email-david@faro.net.ar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:david@faro.net.ar)
 [![Faro](https://img.shields.io/badge/FARO-Fundador-4CAF50?style=flat-square)](https://github.com/dgfigueroa29)
 
