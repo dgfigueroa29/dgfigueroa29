@@ -78,8 +78,8 @@ Arrancé en 2008 con PHP. Migré a mobile, lideré equipos de hasta 15 personas 
 
 **La primera sesión es gratuita — 60 minutos, sin fricción.**
 
-[![Agendar sesión](https://img.shields.io/badge/Agendar_sesión_gratuita-4CAF50?style=for-the-badge&logoColor=white)](mailto:dgfigueroa29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davofigueroa)
+[![Agendar sesión](https://img.shields.io/badge/Agendar_sesión_exploratoria-4CAF50?style=for-the-badge&logoColor=white)](https://calendar.app.google/dhuA9FnjL4VLuzoG7)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-figueroa-mentor-faro-android-ia)
 
 ---
 
